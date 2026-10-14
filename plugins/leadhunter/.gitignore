@@ -1,0 +1,8 @@
+# Real lead data stays local — never commit customer info.
+leads/*.jsonl
+leads/*.csv
+!leads/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc

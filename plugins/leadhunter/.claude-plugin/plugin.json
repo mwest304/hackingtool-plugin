@@ -1,0 +1,9 @@
+{
+  "name": "leadhunter",
+  "version": "0.1.0",
+  "description": "Lead-generation agent for Blackridge Builders. Finds homeowners publicly asking for home-improvement work across social media, classifieds, forums and the open web in north-central WV (Fairmont, Morgantown, Clarksburg, Preston County), then qualifies, scores, drafts a branded first reply, and tracks every lead to close. Compliant by design — public buy-intent only, no scraping or cold spam.",
+  "author": {
+    "name": "Michael West"
+  },
+  "keywords": ["leads", "lead-generation", "home-improvement", "blackridge", "sales", "crm", "outreach"]
+}

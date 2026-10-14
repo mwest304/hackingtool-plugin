@@ -1,0 +1,117 @@
+{
+  "business": {
+    "name": "Blackridge Builders",
+    "tagline": "Home Improvement Services",
+    "owner": "Michael West",
+    "phone": "(304) 405-2106",
+    "email": "blackridgewv@outlook.com",
+    "website": "blackridgebuilderswv.com",
+    "address": "107 Highland Ave, Fairmont, WV 26554",
+    "home_base": "Fairmont, WV",
+    "nap_note": "Use this EXACT name + address + phone + email on the GBP, the website, and EVERY directory — identical everywhere. Mismatched NAP (name/address/phone) is a top reason a local business fails to rank. Pick one and make it consistent."
+  },
+  "service_area": {
+    "note": "North-central WV: Marion (Fairmont, home base), Monongalia (Morgantown), Harrison (Clarksburg), and Preston (Bruceton Mills/Kingwood) counties, plus the MD/PA edge. Prioritize by drive time from Fairmont. Matching is case-insensitive substring. Edit freely.",
+    "towns": [
+      "Fairmont",
+      "White Hall",
+      "Pleasant Valley",
+      "Monongah",
+      "Rivesville",
+      "Barrackville",
+      "Worthington",
+      "Mannington",
+      "Fairview",
+      "Grant Town",
+      "Morgantown",
+      "Westover",
+      "Star City",
+      "Granville",
+      "Cheat Lake",
+      "Sabraton",
+      "Dellslow",
+      "Blacksville",
+      "Core",
+      "Clarksburg",
+      "Bridgeport",
+      "Nutter Fort",
+      "Stonewood",
+      "Shinnston",
+      "Salem",
+      "Bruceton Mills",
+      "Kingwood",
+      "Terra Alta",
+      "Masontown",
+      "Reedsville",
+      "Albright",
+      "Tunnelton",
+      "Newburg",
+      "Rowlesburg",
+      "Arthurdale",
+      "Point Marion",
+      "Oakland",
+      "Friendsville",
+      "Accident"
+    ],
+    "states": ["WV", "West Virginia", "MD", "Maryland", "PA", "Pennsylvania"]
+  },
+  "trades": {
+    "note": "What Blackridge does. Core = remodeling/interiors (drywall, paint, flooring, kitchen & bath) + siding. Roofing is offered but LIMITED ('we do it, not a lot') — keep catching roofing leads, but lead marketing with the core trades, not roofing. Each entry has the trade key and the words customers use when they post.",
+    "offered": {
+      "roofing": ["roof", "roofer", "roofing", "shingle", "roof leak", "roof repair", "new roof"],
+      "siding": ["siding", "vinyl siding", "siding repair", "house wrap"],
+      "decks": ["deck", "deck builder", "deck repair", "porch", "railing"],
+      "remodel": ["remodel", "renovation", "kitchen remodel", "bathroom remodel", "basement finish"],
+      "drywall": ["drywall", "sheetrock", "drywall repair", "patch", "hang drywall"],
+      "flooring": ["flooring", "laminate", "lvp", "hardwood floor", "subfloor", "tile floor"],
+      "painting": ["painting", "painter", "interior paint", "exterior paint"],
+      "windows_doors": ["window", "windows", "door install", "entry door", "storm door"],
+      "gutters": ["gutter", "gutters", "gutter guard", "downspout"],
+      "additions": ["addition", "add on", "garage build", "pole barn", "shed build"],
+      "repairs": ["handyman", "home repair", "fix", "repair", "punch list", "rotten", "water damage"],
+      "pressure_washing": ["pressure wash", "power wash", "soft wash"]
+    },
+    "not_offered": [
+      "note: add trades you DON'T want leads for so the hunter can skip them",
+      "plumbing",
+      "hvac",
+      "electrical rewire"
+    ]
+  },
+  "intent_phrases": {
+    "note": "Words that signal someone is READY TO HIRE, ranked by strength.",
+    "explicit": [
+      "looking for a contractor",
+      "need a contractor",
+      "anyone recommend",
+      "who does",
+      "need someone to",
+      "looking to hire",
+      "getting quotes",
+      "need an estimate",
+      "ISO",
+      "in search of"
+    ],
+    "implied": [
+      "my roof is leaking",
+      "needs replaced",
+      "falling apart",
+      "water damage",
+      "thinking about remodeling",
+      "want to redo"
+    ]
+  },
+  "sources": {
+    "note": "Public places homeowners post needs. 'search' = runs through Claude web search. 'manual' = you (or Claude-in-browser) check directly because the platform blocks search indexing.",
+    "channels": [
+      { "id": "craigslist", "label": "Craigslist (gigs / services wanted)", "mode": "search" },
+      { "id": "facebook_groups", "label": "Local Facebook Buy/Sell/Community groups", "mode": "manual" },
+      { "id": "marketplace", "label": "Facebook Marketplace (services requests)", "mode": "manual" },
+      { "id": "nextdoor", "label": "Nextdoor recommendation requests", "mode": "manual" },
+      { "id": "reddit", "label": "Reddit (r/HomeImprovement, r/Morgantown, local subs)", "mode": "search" },
+      { "id": "thumbtack", "label": "Thumbtack / Angi / HomeAdvisor open requests", "mode": "search" },
+      { "id": "forums", "label": "Local forums & community boards", "mode": "search" },
+      { "id": "web", "label": "Open web (news of storms, permits, FSBO fixer-uppers)", "mode": "search" }
+    ]
+  }
+}
