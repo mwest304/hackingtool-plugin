@@ -1,4 +1,4 @@
-# Where Preston County / Morgantown homeowners actually post
+# Where north-central WV homeowners actually post
 
 Read this to know *where* to hunt and *how* to read each channel. Ranked by how
 often real, local, ready-to-hire leads show up.
@@ -7,7 +7,7 @@ often real, local, ready-to-hire leads show up.
 
 ### Local Facebook groups  `[check in browser]`
 The #1 source for small-town WV home-improvement leads. People post
-"anyone know a good roofer near Kingwood?" constantly.
+"anyone know a good contractor near Morgantown?" constantly.
 - **Where:** "Preston County Buy Sell Trade", "Morgantown WV Community",
   "Kingwood / Terra Alta" groups, county yard-sale groups.
 - **Read it:** look for a *homeowner* asking, not a contractor advertising.

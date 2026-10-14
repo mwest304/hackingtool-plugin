@@ -1,7 +1,7 @@
 # Blackridge Lead Hunter
 
 A lead-generation **agent + program** for **Blackridge Builders** (home
-improvement, Bruceton Mills WV).
+improvement, based in Fairmont WV — serving north-central WV).
 
 It finds homeowners who are **publicly asking** for home-improvement work —
 across local Facebook groups, Nextdoor, Craigslist, Marketplace, Reddit, job

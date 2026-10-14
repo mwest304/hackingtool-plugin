@@ -29,7 +29,7 @@ Re-run `python leadhunter.py rescore` after editing the config (new towns/trades
 
 **Do:**
 - Reference their actual words ("saw your roof's leaking after Tuesday's storm").
-- Lead with identity + local: "Michael with Blackridge Builders, out of Bruceton Mills."
+- Lead with identity + local: "Michael with Blackridge Builders, out of Fairmont."
 - Offer a free, no-pressure look. Low commitment gets the yes.
 - Keep it to 3–4 short sentences. Trades talk, not essays.
 - End with the phone number and one easy question ("What's your timeline?").

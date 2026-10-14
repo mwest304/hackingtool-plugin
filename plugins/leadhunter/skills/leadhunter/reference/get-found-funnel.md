@@ -1,7 +1,7 @@
 # The get-found funnel — make leads come to you
 
 Hunting is one half. The other half is making homeowners who are *already
-searching* ("roofer near Kingwood") find Blackridge and call. For a local
+searching* ("remodeler near Morgantown") find Blackridge and call. For a local
 contractor this is the highest-ROI, lowest-cost thing you can do, and it
 compounds — set it once, it works forever.
 
@@ -10,24 +10,41 @@ Two pieces: **Google Business Profile** (free, do this first) and the
 
 ---
 
-## 1. Google Business Profile (GBP) — free, ~30 minutes, do it first
+## 1. Google Business Profile (GBP) — free, do this first
 
-A GBP is what puts you on Google Maps and in the "roofers near me" results. Most
-small contractors either don't have one or never finish it. Finishing yours beats
-any paid ad.
+A GBP is what puts you on Google Maps and in the "remodeler / roofer near me"
+results. Blackridge already has one — but a public web check turned up **nothing**,
+which means it isn't ranking. The fix is below.
 
-**Setup steps (you, on your Google account):**
-1. Go to **google.com/business** → sign in → **Add your business**.
-2. Business name: **Blackridge Builders**. Category: **General Contractor** (add
-   secondary categories: Roofing Contractor, Siding Contractor, Deck Builder,
-   Handyman).
-3. Choose **"I serve customers at their locations"** (service-area business — no
-   storefront). Add your service area: Bruceton Mills, Kingwood, Terra Alta,
-   Masontown, Reedsville, Morgantown, Cheat Lake, and the MD/PA edge towns.
-4. Phone: **(304) 405-2106**. Website: **blackridgebuilderswv.com**.
-5. **Verify** (Google mails a postcard or does phone/video verification). Nothing
-   shows publicly until verified — don't skip this.
-6. Fill it fully: hours, services (list every trade), a real description in your
+> ### ⚠️ FIX FIRST — NAP consistency (the #1 reason you're invisible)
+> Google only ranks a local business it *trusts*, and trust comes from your
+> **Name + Address + Phone being identical everywhere**. Right now your website
+> says Fairmont while other records said Bruceton Mills — that mismatch alone can
+> bury you. Lock in ONE of each and make it match on the GBP, the website, and
+> every directory:
+> - **Name:** Blackridge Builders
+> - **Address:** 107 Highland Ave, Fairmont, WV 26554 (your business address of record)
+> - **Phone:** (304) 405-2106
+> - **Email:** blackridgewv@outlook.com
+> - **Website:** blackridgebuilderswv.com
+>
+> Do this before anything else. Then claim the free directory listings below so
+> every site on the web points the same way.
+
+**Check / complete your GBP (you, on your Google account):**
+1. Go to **google.com/business** → sign in → open your Blackridge Builders listing.
+   Confirm it says **Verified** and **published** (nothing shows publicly until it's
+   verified). If it isn't verified, finish verification first — that alone could be
+   why nobody finds you.
+2. Category: **General Contractor** (add secondary: Siding Contractor, Remodeler,
+   Flooring Contractor, Painter, Roofing Contractor, Handyman). Lead with your core
+   work; roofing is secondary.
+3. Set it as a **service-area business** and list your real area: Fairmont,
+   Morgantown, Clarksburg, Bridgeport, and out through Preston County
+   (Kingwood/Bruceton Mills) + the MD/PA edge — north-central WV.
+4. Confirm Phone **(304) 405-2106** and Website **blackridgebuilderswv.com** match
+   the NAP box above exactly.
+5. Fill it fully: hours, services (list every trade), a real description in your
    voice, and **photos of finished jobs** (before/after sells hardest). Add new
    photos monthly — Google rewards active profiles.
 
@@ -36,6 +53,13 @@ any paid ad.
 > small local shop like mine. Here's the link: [your GBP review link]"
 
 5+ recent reviews and you outrank the big franchise names in your towns.
+
+**Build citations (free, ~1 hour total).** Claim a free listing on each of these
+and enter the **exact same** Name / Address / Phone from the NAP box — this is how
+Google learns to trust and rank you:
+- Bing Places, Apple Business Connect, Facebook (business page), Yelp, BBB,
+  Angi, Nextdoor (business page), YellowPages.
+A dozen consistent listings moves the needle more than any single one.
 
 ---
 
@@ -53,7 +77,7 @@ Blackridge-branded, mobile-first (most of your traffic is phones off Facebook).
 1. **Wire the form to your inbox.** Open the file, find the `FORMSPREE_ENDPOINT`
    placeholder, and replace it with a free form endpoint from **formspree.io**
    (sign up free → new form → paste its URL). Submissions then email you at
-   mwest304@outlook.com. *(Or tell me your site's stack — WordPress, etc. — and
+   blackridgewv@outlook.com. *(Or tell me your site's stack — WordPress, etc. — and
    I'll wire it to that instead.)*
 2. **Add your logo:** drop `blackridge_logo.png` in the same folder (the page
    already has a slot for it; it looks clean without it too).

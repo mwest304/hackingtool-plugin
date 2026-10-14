@@ -1,10 +1,15 @@
 # The Facebook / Nextdoor faucet
 
 This is where the leads actually are. The open-web sweep proved it: on the
-public web, rural Preston County is contractors advertising, not homeowners
+public web, this market is contractors advertising, not homeowners
 asking. The real "anyone know a good roofer?" posts live in **login-walled
 Facebook groups and Nextdoor** — which is exactly why no scraper or search tool
 reaches them, and exactly why competitors ignore them. That's your edge.
+
+Your market is **north-central WV** — Fairmont (home base), Morgantown (the big
+one — college town, constant churn of renters-turned-owners and remodels),
+Clarksburg/Bridgeport, out through Preston County. Morgantown and Fairmont groups
+are higher-volume than Preston; work them first.
 
 There are two ways to run this faucet. Start with Mode A today; move to Mode B
 when you want it hands-off.
@@ -24,16 +29,20 @@ when you want it hands-off.
 
 That's it. You're the eyes (logged in); I'm the brain (qualify + draft + track).
 
-**Groups to find and join** (search Facebook for group names like these):
-- "Preston County WV Buy Sell Trade" / "Preston County WV Community"
-- "Kingwood WV" / "Terra Alta WV" / "Bruceton Mills" community & yard-sale groups
-- "What's Happening in Preston County"
-- "Morgantown WV Community" / "Morgantown Buy Sell Trade"
-- "Cheat Lake" / "Westover" / "Star City" neighborhood groups
-- Garrett County MD: "Oakland MD" / "Deep Creek Lake" / "Friendsville" community groups
+**Groups to find and join** (search Facebook for group names like these),
+highest-volume first:
+- **Morgantown:** "Morgantown WV Community" / "Morgantown Buy Sell Trade" /
+  "Morgantown WV Classifieds" / "Cheat Lake / Westover / Star City" neighborhood groups
+- **Fairmont / Marion County:** "Fairmont WV Community" / "Marion County WV Buy
+  Sell Trade" / "What's Happening in Marion County"
+- **Clarksburg / Harrison County:** "Clarksburg WV Community" / "Harrison County
+  WV Buy Sell Trade" / "Bridgeport WV"
+- **Preston County:** "Preston County WV Buy Sell Trade" / "Kingwood WV" /
+  "Terra Alta WV" / "What's Happening in Preston County"
+- Plus any WV "recommendations" or "contractor referral" groups you can find.
 
-**Nextdoor:** log in, set your neighborhood to Bruceton Mills/Kingwood, and check
-the feed + search the same terms. Reply to "recommendation" posts.
+**Nextdoor:** log in, set your neighborhood to Fairmont (and check Morgantown), and
+search the same terms. Reply to "recommendation" posts.
 
 **Facebook Marketplace:** check the **Services** category filtered to your area
 for homeowners posting jobs.
