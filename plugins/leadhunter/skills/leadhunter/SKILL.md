@@ -108,9 +108,29 @@ Run everything from `${CLAUDE_PLUGIN_ROOT}/scripts/`.
 - Reach for the browser-only sources (Facebook/Nextdoor) when web search comes
   up thin — that's where the local "anyone recommend?" gold usually is.
 
+## Market reality (proven, not assumed)
+
+A full public-web sweep of this service area returned **zero** direct homeowner
+asks — the open web here is contractors advertising, not homeowners posting, and
+Reddit is blocked to search tools. The live "anyone recommend a roofer?" demand
+sits in **login-walled Facebook groups and Nextdoor**. So for a rural market like
+Preston County, lead with the **browser sources** and the **get-found funnel**,
+not open-web search:
+
+1. **Facebook / Nextdoor faucet** — `reference/facebook-nextdoor-playbook.md`. The
+   real lead source. Works today copy-paste; goes hands-off with browser access.
+2. **Get-found funnel** — `reference/get-found-funnel.md`. Google Business Profile +
+   the lead-capture page (`landing/blackridge-free-estimate.html`) so homeowners
+   already searching find and call Blackridge.
+3. **Open-web search** (`queries` command) — run it, but treat it as a bonus pass,
+   not the main engine, in low-density markets.
+
 ## Reference
 
+- `reference/facebook-nextdoor-playbook.md` — the Facebook/Nextdoor faucet (primary source).
+- `reference/get-found-funnel.md` — Google Business Profile + lead-capture page.
 - `reference/sources.md` — where local customers actually post, and how to read each channel.
 - `reference/qualify-score.md` — the scoring rubric and the Blackridge outreach playbook.
+- `landing/blackridge-free-estimate.html` — the Blackridge lead-capture page.
 - `config/blackridge.json` — service area, trades, intent phrases, sources. Edit to tune.
 - The `brand-identity` skill governs the voice and look of every message you send on Blackridge's behalf.
