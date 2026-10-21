@@ -23,13 +23,21 @@ Every inbound sorts into exactly one:
 | **Unclear** | Vague scope / no location / "just prices" | Draft reply with the ONE question that resolves it (usually: address + what's the project?) |
 | **Out of scope** | Outside area, work we don't do, cheapest-bid-only | Honest reply, refer out if we can |
 
-## Qualification inputs ‹confirm these›
+## Qualification inputs
 
-- **Service area:** ‹city/metro + how far we drive›. Outside it = out of scope unless the job is big enough to travel for ‹confirm threshold›.
-- **Work we do:** ‹list — e.g. kitchens, baths, additions, decks, roofing, repairs›
-- **Work we decline:** ‹list — e.g. we don't do electrical-only, mobile homes, etc.›
-- **Sweet-spot job size:** ‹e.g. $15k–$80k›. Below ‹floor› we ‹take it / refer it›.
-- **Red flags that drop a lead to out-of-scope:** ‹e.g. won't give an address, wants a firm price with no site visit, insurance-only scope-shoppers›
+The live values live in `../../config/blackridge-profile.md` (read it first).
+Summary:
+
+- **Service area:** Fairmont / Morgantown / Clarksburg / Bridgeport / Bruceton Mills
+  (Marion, Monongalia, Harrison, Preston counties). Radius **30 mi** (site says 50 — ‹confirm›).
+  Outside it = out of scope unless the job is big enough to travel for.
+- **Work we do:** kitchen & bath remodels, comprehensive remodeling, drywall (incl.
+  single patches), interior painting, flooring, tile, siding.
+- **Work we decline:** additions, roofing, decks, standalone electrical/plumbing,
+  new-construction builds (unless the owner says otherwise).
+- **Small jobs welcome** — a single drywall patch is still a lead, not a brush-off.
+- **Red flags → out-of-scope/unclear:** won't give an address, wants a firm price
+  with no site visit, a trade we don't do, insurance-only scope-shoppers.
 
 ## First-reply structure (home improvement)
 

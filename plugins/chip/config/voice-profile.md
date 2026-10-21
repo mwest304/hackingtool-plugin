@@ -24,6 +24,20 @@ To make replies sound exactly like Mike: give Chip three past emails/texts he wa
 happy with sending a customer. Chip extracts the real patterns and replaces this
 default. Until then, replies are honest but "un-voiced" and Chip will flag that.
 
+## Proof points Chip can lean on (all true, from the site)
+
+Use these naturally in replies when they help close — never as a hard sell:
+- Owner-operated: Mike handles every job from quote to final walkthrough.
+- Fully insured.
+- Written, upfront pricing — no hidden fees or surprise charges.
+- Typically ~20% below other area contractors (no middleman / sales commission).
+- 1-year workmanship warranty.
+- Free estimates.
+
 ## Signature
 
-‹confirm — name, company, phone, and anything that should close every message›
+> Mike Westfall
+> Blackridge Builders — Fairmont, WV's Trusted Home Remodeling Contractor
+> (304) 405-2106 · blackridgewv@outlook.com · blackridgebuilderswv.com
+
+‹confirm this is how Mike wants to sign — adjust name/line as he likes›
