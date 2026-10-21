@@ -1,0 +1,19 @@
+{
+  "name": "chip",
+  "version": "0.1.0",
+  "description": "Chip — the command AI that runs the business. A single front door that knows the operator's companies, routes every request to the right workflow, and drives the money-making work end to end: lead generation, instant follow-up, proposals, invoicing, and cash. Built for Blackridge Builders first. Reuses the Small Business engine (speed-to-lead, outreach-composer, crm-autopilot, proposal-builder, invoice-chase) and adds a persistent business brain plus an operator persona with standing authority to take initiative inside money/legal guardrails.",
+  "author": {
+    "name": "Blackridge Builders"
+  },
+  "keywords": [
+    "command-center",
+    "business-operations",
+    "lead-generation",
+    "speed-to-lead",
+    "home-improvement",
+    "construction",
+    "automation",
+    "blackridge",
+    "syntrix"
+  ]
+}

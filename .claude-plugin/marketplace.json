@@ -14,6 +14,13 @@
       "description": "183+ pentesting and OSINT tools (nmap, nuclei, amass, subfinder, httpx, sherlock, maigret, trufflehog, sqlmap, impacket, and more) wired into Claude Code. Runs locally on any OS via native Bash, WSL, or purpose-built Docker images — Claude picks the right backend and image automatically.",
       "category": "security",
       "tags": ["security", "pentest", "osint", "recon", "hackingtool"]
+    },
+    {
+      "name": "chip",
+      "source": "./plugins/chip",
+      "description": "Chip — a command AI that runs the business. One front door that knows your companies, routes every request to the right workflow, and drives the money-making work end to end. Ships with a live lead-generation + instant-follow-up loop for Blackridge Builders, built on the Small Business engine (speed-to-lead, outreach-composer, crm-autopilot). You approve anything that sends, spends, commits, or signs.",
+      "category": "business",
+      "tags": ["business", "operations", "lead-generation", "speed-to-lead", "home-improvement", "chip"]
     }
   ]
 }
