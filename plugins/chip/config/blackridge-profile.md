@@ -16,7 +16,7 @@ memory so skills running in other Claude sessions see the same thing.
 - **Owner / operator:** Michael (Mike) Westfall — owner-operated, handles each job quote → final walkthrough
 - **Website:** https://www.blackridgebuilderswv.com
 - **Business phone / text:** (304) 405-2106
-- **Business email:** blackridgewv@outlook.com  *(site header also links Mwest304@outlook.com — ‹confirm which is the real lead inbox›)*
+- **Business email (all company activity — CONFIRMED):** blackridgewv@outlook.com  *(the site header also links Mwest304@outlook.com — a stray link to clean up on the website)*
 - **Owner's Claude/Google email:** realmikewestfall304@gmail.com  *(this is the CONNECTED mailbox — see the lead-inbox gap below)*
 - **Address:** 107 Highland Ave, Fairmont, WV 26554
 - **Industry:** Home improvement / residential remodeling
@@ -60,7 +60,7 @@ Used by `speed-to-lead` / `lead-triage` to sort every inbound.
 
 ## Lead sources (where inbound comes from)
 
-- **Website contact form** (blackridgebuilderswv.com → "Book a Free Quote"). Form captures Name + Message + consent only — **no phone/email field**, so some leads arrive thin on detail. Submissions deliver to the Outlook business inbox. ‹confirm exact address›
+- **Website contact form** (blackridgebuilderswv.com → "Book a Free Quote"). Form captures Name + Message + consent only — **no phone/email field**, so some leads arrive thin on detail. Submissions deliver to **blackridgewv@outlook.com** (confirmed).
 - **Business phone / text:** (304) 405-2106 — calls and texts.
 - **Facebook page.** ‹confirm if leads come through Messenger/FB›
 - ‹confirm: Angi / Thumbtack / Google Business Profile / Google Local Services?›
@@ -76,11 +76,12 @@ Used by `speed-to-lead` / `lead-triage` to sort every inbound.
 
 ## ⚠️ Two real gaps to close (honest status)
 
-1. **Lead-inbox mismatch.** The website form and the business email are on **Outlook**
-   (blackridgewv@outlook.com), but the mailbox connected to Chip is **Gmail**
-   (realmikewestfall304@gmail.com). Until this is bridged, Chip can't see website
-   leads automatically. Fix = either forward Outlook → the Gmail, OR connect the
-   Microsoft/Outlook mailbox. Owner's call.
+1. **Lead inbox is Outlook; Chip is on Gmail.** Confirmed lead inbox =
+   **blackridgewv@outlook.com** (Outlook). The mailbox connected to Chip is
+   **realmikewestfall304@gmail.com** (Gmail). Bridge = auto-forward the Outlook
+   inbox to the Gmail (2-min Outlook setting), then Chip sweeps website leads
+   automatically. Alternative: connect the Outlook/Microsoft mailbox directly.
+   **Action on owner.**
 2. **Phone & text leads + text alerts.** Calls and texts to (304) 405-2106 can't be
    read, and hot-lead alerts can't be auto-texted, until an SMS/phone tool is
    connected (a `build-connector` job). Until then, Chip works forwarded/pasted
